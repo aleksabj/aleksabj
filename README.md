@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @aleksabj
 
 - 👩‍🎓 I’m a Computer Science student at Charles University in Prague.
-- 💻 Currently, I’m a Software Engineer Intern at Rapid7.
+- 💻 Currently, I’m a Software Engineer I at Rapid7.
 - 👀 I’m interested in creating innovative software solutions, cybersecurity, and AI/ML.
 - 🌱 I’m currently learning about advanced algorithms, machine learning, and cloud computing.
 - 💞️ I’m looking to collaborate on open-source projects, especially those related to Python or web development.
